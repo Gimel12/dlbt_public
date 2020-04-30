@@ -92,7 +92,7 @@ This will open the DLBT APP -- See picture below
 
 # Contact and support 
 
-email - ruben@technopremiumusa.com 
+email - support@technopremium.com 
 Website - [www.TECHNOPREMIUM.com](https://technopremium.com/)
 
 ## Social channels
