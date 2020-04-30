@@ -1,4 +1,7 @@
 # DLBT - World First Deep learning benchmark tool for everyone. 
+Project Website --- [www.TECHNOPREMIUM.com](https://technopremium.com/)
+Buy DLBT SSD ready -- [BUY HERE](https://maverick-tech.com/products/dlbt-ssd)
+Check our Deep learning blog --- [DLBT_BLOG](https://technopremium.com/blog/)
 
 # DLBT - First Deep learning benchmark tool with UI  
 
@@ -70,12 +73,34 @@ If you don't have this requirement, please contact us for further instructions [
 
 # Launching the DLBT APP 
 
+Clone this repo to your local machine. 
+
 ```bash 
-docker pull gimel12/dltb_public
-mkdir dlbt 
-cd dlbt
 git clone https://github.com/technopremium/dlbt_public.git
-cd 'gitfolder'
-chmod +x dlbt_launcher
-./dlbt
+cd dlbt_public/
+chmod +x start.sh
+./start.sh
 ```
+
+This will open the DLBT APP -- See picture below 
+
+![alt text](https://github.com/technopremium/dlbt_public/blob/master/dlbtmarkdown.png?raw=true)
+
+## Video Guides available [HERE](https://www.youtube.com/channel/UCyskeAVxrGH0RfftrQ-Xl0Q) 
+
+# Contact and support 
+
+email - ruben@technopremiumusa.com 
+Website - [www.TECHNOPREMIUM.com](https://technopremium.com/)
+
+## Social channels
+[Facebook](https://www.facebook.com/technopremium)
+[Instagram](https://www.instagram.com/technopremium/)
+[Youtube](https://www.youtube.com/channel/UCyskeAVxrGH0RfftrQ-Xl0Q)
+[Linkedin](https://www.linkedin.com/in/ruben-r-fernandez-105322135/)
+[Twitter](https://twitter.com/technopremium1)
+[Pinterest](https://www.pinterest.com/TechnopremiumUSA/)
+[Reddit](https://www.reddit.com/user/gimel1213)
+[Medium](https://medium.com/@technopremiumusa)
+
+
