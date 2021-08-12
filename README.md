@@ -80,8 +80,10 @@ Clone this repo to your local machine.
 ```bash 
 git clone https://github.com/technopremium/dlbt_public.git
 cd dlbt_public/
-chmod +x start.sh
+sudo chmod +x start.sh
+sudo chmod +x launcher
 ./start.sh
+./launcher
 ```
 
 This will open the DLBT APP -- See picture below 
